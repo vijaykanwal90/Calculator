@@ -1,9 +1,11 @@
 .App {
   text-align: center;
-  background-color: blue;
 }
-.body{
-  
+.group > button:hover{
+  background-color:white;
+}
+:root{
+  background: linear-gradient(90deg, rgba(31,201,122,1) 0%, rgba(9,215,50,1) 33%, rgba(1,241,154,1) 66%, rgba(0,255,248,1) 100%);
 }
 .App-logo {
   height: 40vmin;
